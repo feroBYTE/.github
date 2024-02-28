@@ -10,6 +10,6 @@ Connect with us on social media and stay updated on the latest FeroBYTE developm
 - Discord: (coming soon)
 
 ## License
-
-All FeroBYTE projects are open-source and available under the [MIT License](LICENSE).
-
+Majority of FeroBYTE projects are open-source and available under the [MIT License](LICENSE)
+<br>
+with exceptions of few that are explicitly listed with their respective License
